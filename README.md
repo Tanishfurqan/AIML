@@ -1,2 +1,2 @@
 # AIML
-soma from gulegud
+soma from guleguda
